@@ -1,11 +1,11 @@
 Lab 3 - Plastic Waste
 ================
 DSC 200 - Data Science I
-2021-02-06
+2021-02-15
 
-Student Name:
+Student Name:Fatimah-Albrahim
 
-Student ID:
+Student ID:2201002369
 
 ``` r
 library(tidyverse)
